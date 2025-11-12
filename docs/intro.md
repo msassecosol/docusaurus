@@ -8,7 +8,9 @@ Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started - Nebo taky ne
 
-Get started by **creating a new site**.
+Get started by **creating a new site**.&#x20;
+
+Nebo že by?
 
 Or **try Docusaurus immediately** with [**docusaurus.new**](https://docusaurus.new).
 
